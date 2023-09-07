@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.srcs/sim_1/new/tb_compressor.v,1694117569,verilog,,,,tb_compressor,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.srcs/sources_1/new/FullAdder.v,1694105392,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.srcs/sources_1/new/compressor_4to2.v,,FullAdder,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.srcs/sources_1/new/compressor_4to2.v,1694105807,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.srcs/sim_1/new/tb_compressor.v,,compressor_4to2,,,,,,,,

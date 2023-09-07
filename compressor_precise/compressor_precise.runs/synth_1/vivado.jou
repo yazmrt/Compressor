@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Sep  7 19:56:59 2023
+# Process ID: 3436
+# Current directory: C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.runs/synth_1
+# Command line: vivado.exe -log compressor_4to2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source compressor_4to2.tcl
+# Log file: C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.runs/synth_1/compressor_4to2.vds
+# Journal file: C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_precise/compressor_precise.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source compressor_4to2.tcl -notrace

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../compressor_imprecise.srcs/sources_1/new/compressor_4to2.v" \
+"../../../../compressor_imprecise.srcs/sim_1/new/tb_compressor.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

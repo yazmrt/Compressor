@@ -1,0 +1,4 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Time=                   0, x1=0, x2=0, x3=0, x4=0, cin=0, sum=x, carry=x, cout=x
+$finish called at time : 12 ns : File "C:/Users/yazmr/OneDrive/Masast/Vivado Codes/compressor_imprecise/compressor_imprecise.srcs/sim_1/new/tb_compressor.v" Line 61

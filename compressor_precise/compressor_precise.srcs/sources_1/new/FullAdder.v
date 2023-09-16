@@ -28,7 +28,7 @@ output sum_o,
 output cout_o);
 
 
-assign {cout_o,sum_o} = a_i+b_i+cin_i;
+assign {cout_o,sum_o} = a_i + b_i + cin_i;
 
 endmodule
 
